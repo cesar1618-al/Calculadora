@@ -1,5 +1,5 @@
 body {
-    background: dimgray;
+    background: rgb(112, 31, 31);
 }
 
 #fondo{
@@ -145,7 +145,7 @@ button{
     border-bottom: 3px solid mediumseagreen;
 }
 
-.eqn:active{
+#eqn:active{
     background:limegreen;
     color: ghostwhite;
     font-size: 26px;
@@ -164,4 +164,3 @@ footer{
     width: 100%;
     color: ghostwhite;
 }
-
